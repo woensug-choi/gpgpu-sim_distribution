@@ -1,3 +1,8 @@
+# Modifications made
+- Added `-all` flag to `cuobjdump` to recognize the ptx file compiled as `compile-only` flag as default at cmake
+
+
+
 Welcome to GPGPU-Sim, a cycle-level simulator modeling contemporary graphics
 processing units (GPUs) running GPU computing workloads written in CUDA or
 OpenCL. Also included in GPGPU-Sim is a performance visualization tool called
